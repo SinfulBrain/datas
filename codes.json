@@ -1,0 +1,16 @@
+{
+  "codes": [
+    {
+      "code": "WELCOME2026",
+      "rewardType": "Crystal",
+      "amount": 50,
+      "description": "50 Kristal Kazandın!"
+    },
+    {
+      "code": "BOOSTME",
+      "rewardType": "Multiplier",
+      "amount": 0.05,
+      "description": "Click Çarpanı +0.05 Arttı!"
+    }
+  ]
+}
