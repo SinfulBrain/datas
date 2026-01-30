@@ -1,34 +1,16 @@
 {
   "codes": [
     {
-      "code": "STARTGIFT",
+      "code": "frost932",
       "rewardType": "Crystal",
       "amount": 100,
-      "description": "Başlangıç hediyesi: 100 Kristal Kazandın!"
+      "description": "100 Crystals added to your account!"
     },
     {
-      "code": "RICHGUY",
-      "rewardType": "Coin",
-      "amount": 500000.0,
-      "description": "Zenginsin! 500.000 Coin hesabına eklendi."
-    },
-    {
-      "code": "FASTCLICK",
+      "code": "boostx27",
       "rewardType": "Multiplier",
-      "amount": 0.05,
-      "description": "Hızlandın! Tıklama çarpanı +0.05 arttı."
-    },
-    {
-      "code": "MEGABOOST",
-      "rewardType": "Multiplier",
-      "amount": 0.25,
-      "description": "Efsanevi Güç! Tıklama çarpanı +0.25 arttı."
-    },
-    {
-      "code": "DAILY50",
-      "rewardType": "Crystal",
-      "amount": 50,
-      "description": "Günlük kod: 50 Kristal hesabına tanımlandı."
+      "amount": 0.03,
+      "description": "All Multiplier increased by 0.03!"
     }
   ]
 }
