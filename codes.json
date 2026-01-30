@@ -1,13 +1,13 @@
 {
   "codes": [
     {
-      "code": "frost932",
+      "code": "FROST932",
       "rewardType": "Crystal",
       "amount": 100,
       "description": "100 Crystals added to your account!"
     },
     {
-      "code": "boostx27",
+      "code": "BOOSTX27",
       "rewardType": "Multiplier",
       "amount": 0.03,
       "description": "All Multiplier increased by 0.03!"
