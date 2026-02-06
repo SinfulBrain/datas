@@ -1,16 +1,28 @@
 {
   "codes": [
     {
-      "code": "FROST932",
+      "code": "FROST932EXP",
       "rewardType": "Crystal",
       "amount": 100,
       "description": "100 Crystals added to your account!"
     },
     {
-      "code": "BOOSTX27",
+      "code": "BOOSTX27EXP",
       "rewardType": "Multiplier",
       "amount": 0.05,
       "description": "All Multiplier increased by 0.05!"
+    },
+    {
+      "code": "DONK75",
+      "rewardType": "Crystal",
+      "amount": 75,
+      "description": "75 Crystals added to your account!"
+    },
+    {
+      "code": "POLYGN50",
+      "rewardType": "Crystal",
+      "amount": 50,
+      "description": "50 Crystals added to your account!"
     }
   ]
 }
