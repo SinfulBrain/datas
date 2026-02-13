@@ -1,6 +1,13 @@
 {
   "codes": [
     {
+      "code": "ALPHAV7",
+      "rewardType": "Crystal",
+      "amount": 50,
+      "description": "50 Crystals added to your account!",
+      "expired": false
+    },
+    {
       "code": "FROST932EXP",
       "rewardType": "Crystal",
       "amount": 100,
@@ -13,13 +20,13 @@
       "description": "All Multiplier increased by 0.05!"
     },
     {
-      "code": "DONK75",
+      "code": "DONK75EXP",
       "rewardType": "Crystal",
       "amount": 75,
       "description": "75 Crystals added to your account!"
     },
     {
-      "code": "POLYGN50",
+      "code": "POLYGN50EXP",
       "rewardType": "Crystal",
       "amount": 50,
       "description": "50 Crystals added to your account!"
