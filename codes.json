@@ -36,12 +36,18 @@
       "rewardType": "Crystal",
       "amount": 75,
       "description": "75 Crystals added to your account!"
-    }    ,
+    },
+    {
+      "code": "RUMILIK50",
+      "rewardType": "Crystal",
+      "amount": 50,
+      "description": "50 Crystals added to your account!"
+    },
     {
       "code": "FEMKOB55",
       "rewardType": "Crystal",
-      "amount": 75,
-      "description": "75 Crystals added to your account!"
+      "amount": 50,
+      "description": "50 Crystals added to your account!"
     }
   ]
 }
