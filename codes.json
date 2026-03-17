@@ -48,6 +48,12 @@
       "rewardType": "Crystal",
       "amount": 50,
       "description": "50 Crystals added to your account!"
+    },
+    {
+      "code": "SORYFORTHAT",
+      "rewardType": "Crystal",
+      "amount": 500,
+      "description": "500 Crystals added to your account!"
     }
   ]
 }
