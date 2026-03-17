@@ -36,6 +36,12 @@
       "rewardType": "Crystal",
       "amount": 75,
       "description": "75 Crystals added to your account!"
+    }    ,
+    {
+      "code": "FEMKOB55",
+      "rewardType": "Crystal",
+      "amount": 75,
+      "description": "75 Crystals added to your account!"
     }
   ]
 }
