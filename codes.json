@@ -54,6 +54,12 @@
       "rewardType": "Crystal",
       "amount": 500,
       "description": "500 Crystals added to your account!"
+    },
+    {
+      "code": "ADABOKBOM",
+      "rewardType": "Crystal",
+      "amount": 75,
+      "description": "75 Crystals added to your account!"
     }
   ]
 }
