@@ -60,6 +60,12 @@
       "rewardType": "Crystal",
       "amount": 75,
       "description": "75 Crystals added to your account!"
+    },
+    {
+      "code": "DOMDOMWATCH",
+      "rewardType": "Multiplier",
+      "amount": 0.05,
+      "description": "50 Crystals added to your account!"
     }
   ]
 }
