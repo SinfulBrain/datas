@@ -66,6 +66,12 @@
       "rewardType": "Multiplier",
       "amount": 0.05,
       "description": "All Multiplier increased by 0.05!"
+    },
+    {
+      "code": "JANEBOOST50",
+      "rewardType": "Crystal",
+      "amount": 50,
+      "description": "75 Crystals added to your account!"
     }
   ]
 }
