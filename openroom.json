@@ -1,1 +1,21 @@
-  
+{
+  "latestVersion": "0.5.0",
+  "completed": [
+    "Android Black Cutscene Fix (Low Quality Codec Fallback)",
+    "In-Game Live Patch Notes & Version Alerts"
+  ],
+  "inProgress": [
+    "Instant Dual-Release & Patreon Verification System",
+    "Level 1 New Anomalies",
+    "Level 2 New Anomalies",
+    "Level Ending Cutscene",
+    "New Tutorial & Rules Poster",
+    "New Maria Cutscene",
+    "New Maria Photo",
+    "New 2B Cutscene",
+    "New 2B Photo",
+    "Cutscene Custom Camera Update",
+    "Code Refactoring",
+    "Build & Test Phase"
+  ]
+}
