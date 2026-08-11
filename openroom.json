@@ -2,7 +2,8 @@
   "latestVersion": "0.4.1",
   "completed": [
     "In-Game Live Patch Notes & Version Alerts",
-    "Level 1 New Anomalies"
+    "Level 1 New Anomalies",
+    "Fixed Desk Shelf doors closing when moving away"
   ],
   "inProgress": [
     "Android Black Cutscene Fix (Low Quality Codec Fallback)",
