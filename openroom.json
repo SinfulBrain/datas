@@ -1,12 +1,12 @@
 {
   "latestVersion": "0.5.0",
   "completed": [
-    "Android Black Cutscene Fix (Low Quality Codec Fallback)",
+    "Level 1 New Anomalies",
     "In-Game Live Patch Notes & Version Alerts"
   ],
   "inProgress": [
+    "Android Black Cutscene Fix (Low Quality Codec Fallback)",
     "Instant Dual-Release & Patreon Verification System",
-    "Level 1 New Anomalies",
     "Level 2 New Anomalies",
     "Level Ending Cutscene",
     "New Tutorial & Rules Poster",
