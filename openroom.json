@@ -1,28 +1,32 @@
 {
-  "latestVersion": "0.4.2",
+  "latestVersion": "0.5.0",
   "completed": [
     "Instant Dual-Release & Patreon Verification System",
     "In-Game Live Patch Notes & Version Alerts",
-    "Level  Ending Cutscene Integration",
+    "Level Ending Cutscene Integration",
     "Cutscene UI Updated",
     "Cutscene playback has been improved",
     "Level 1 New Anomalies",
     "Level 2 New Anomalies",
-    "Level  Ending Cutscene",
+    "Level Ending Cutscene",
     "New Tutorial & Rules Poster",
     "Random Poster Tutorials",
     "New Maria Cutscene",
+    "New Maria Photo",
     "New 2B Cutscene",
+    "2 New 2B Photo",
     "Cutscene Custom Camera Update",
+    "Fixed Level 2 Main Menu Button",
+    "Fixed Gallery Missing Cutscenes",
+    "Fixed Gallery Images Layout",
+    "Fixed Gallery Images Icons",
+    "Fixed Elevator Doors Closing Bug",
     "Fixed Desk Shelf doors closing when moving away",
     "Now, no anomalies ever occur in the first layer",
-    "The game engine version has been updated. (6000.3.22f1)"
+    "The game engine version has been updated. (6000.3.22f1)",
+    "Code Refactoring",
+    "Build & Test Phase"
   ],
   "inProgress": [
-    "New Maria Photo",
-    "New 2B Photo",
-    "Android Black Cutscene Fix (Low Quality Codec Fallback)",
-    "Code Refactoring",
-    "0.5.0 Build & Test Phase"
   ]
 }
