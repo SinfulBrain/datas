@@ -72,6 +72,12 @@
       "rewardType": "Crystal",
       "amount": 50,
       "description": "50 Crystals added to your account!"
+    },
+    {
+      "code": "TSUNADEQUIN",
+      "rewardType": "Crystal",
+      "amount": 50,
+      "description": "50 Crystals added to your account!"
     }
   ]
 }
